@@ -1,0 +1,33 @@
+body
+{
+    background: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px gray;
+border-radius: 10px;
+}
+
+button
+{
+    width: 100px;
+    height: 25px;
+    background-color: rgb(26, 26, 26);
+    color: red;
+}
